@@ -190,6 +190,20 @@ footer {
     text-align: right;
 }
 
+#archived{
+    background: rgba(247, 235, 255, .7);
+    width: 100%;
+    padding: 1em;
+}
+
+span#q-button{
+    display: inline-block;
+    border: 1px solid #ccc;
+    width: 1.6em;
+    text-align: center;
+    font-weight: bold;
+}
+
 .stickyp {
     position: fixed;
     bottom: -100px;
