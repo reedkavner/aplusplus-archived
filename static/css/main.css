@@ -195,12 +195,13 @@ footer {
     color: white;
     width: 100%;
     padding: 1em;
+    line-height: 1.8em;
 }
 
 span#q-button{
     display: inline-block;
     border: 1px solid white;
-    width: 1.6em;
+    width: 1.8em;
     text-align: center;
     font-weight: bold;
 }
