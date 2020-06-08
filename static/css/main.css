@@ -191,14 +191,15 @@ footer {
 }
 
 #archived{
-    background: rgba(247, 235, 255, .7);
+    background: #d70f65;
+    color: white;
     width: 100%;
     padding: 1em;
 }
 
 span#q-button{
     display: inline-block;
-    border: 1px solid #ccc;
+    border: 1px solid white;
     width: 1.6em;
     text-align: center;
     font-weight: bold;
