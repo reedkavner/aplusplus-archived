@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
-        <link>https://www.aplusplus.fm</link>
+        <link>http://aplusplus.moojzadie.com</link>
         <language>en-us</language>
         <copyright>&#xA9;2019</copyright>
         <image>
-            <url>https://www.aplusplus.fm/static/images/icon-2k.png</url>
+            <url>http://aplusplus.moojzadie.com/static/images/icon-2k.png</url>
             <title>a++</title>
-            <link>https://www.aplusplus.fm</link>
+            <link>http://aplusplus.moojzadie.com</link>
         </image>
-        <itunes:image href="https://www.aplusplus.fm/static/images/icon-2k.png"/>
+        <itunes:image href="http://aplusplus.moojzadie.com/static/images/icon-2k.png"/>
         <pubDate>Wed, 07 Aug 2019 09:49:35 -0800</pubDate>
         <title>a++</title>
-        <description>a++ curates must-listen episodes from the best podcasts. For more, visit http://aplusplus.fm</description>
-        <itunes:summary>a++ curates must-listen episodes from the best podcasts. For more, visit http://aplusplus.fm</itunes:summary>
+        <description>a++ curates must-listen episodes from the best podcasts. For more, visit http://aplusplus.moojzadie.com</description>
+        <itunes:summary>a++ curates must-listen episodes from the best podcasts. For more, visit http://aplusplus.moojzadie.com</itunes:summary>
         <lastBuildDate>Wed, 07 Aug 2019 09:49:35 -0800</lastBuildDate>
         
         
